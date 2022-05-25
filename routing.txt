@@ -1,0 +1,11 @@
+AB_Bank 020060288
+Agrani_Bank 010010280
+Al_Arafah_Islami_Bank 015010948
+Bangladesh_Commerce_Bank 030060281
+Bangladesh_Development_Bank 047060287
+Bangladesh_Krishi_Bank 035010049
+Bank_Alfalah 065913558
+Bank_Asia 070060283
+BRAC_Bank 060280673
+City_Bank 225275294
+Standard_Bank 210670820
